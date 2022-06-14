@@ -14,8 +14,3 @@ In my profile, you can find:
 You can find me on: <br /><br />
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/brandtruong/)
  [<img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>](https://brandtruong.github.io/)
-
-Here are some of the things I use! <br />
-![img](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
- ![img](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
- ![img](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
