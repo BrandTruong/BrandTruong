@@ -3,7 +3,7 @@ Thanks for checking out my readme! Feel free to use it as a template or as a gui
 --->
 
 ![Hello by me](https://raw.githubusercontent.com/BrandTruong/brandtruong.github.io/master/images/Frame%202lowres.png)
-####my name is Brandon Truong, a computer science major from UCLA, and I mostly do game development and software design
+#### my name is Brandon Truong, a computer science major from UCLA, and I mostly do game development and software design
 
 I am involved with [ACM Studio](https://acmstudio.carrd.co), a UCLA organization that teaches expression through games
 In my profile, you can find:
