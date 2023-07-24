@@ -6,7 +6,7 @@ Thanks for checking out my readme! Feel free to use it as a template or as a gui
 **My name is Brandon Truong.** I am a UCLA 2023 cs student and my passion is everything related to games!
 
 I am currently involved with **[ACM Studio](https://acmstudio.carrd.co)**, a UCLA organization that teaches expression through game development  
-I am also part of the team at **[GrayRavens](https://www.grayravens.com)**, a fan-site dedicated to aggregating information for the hit mobile game, Punishing: Gray Raven
+I am also part of the team at **[GrayRavens](https://grayravens.com)**, a fan-site dedicated to aggregating information for the hit mobile game, Punishing: Gray Raven
 
 In my profile, you can find:
 * Coursework for the classes I've taken at UCLA
