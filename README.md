@@ -3,10 +3,10 @@ Thanks for checking out my readme! Feel free to use it as a template or as a gui
 --->
 
 ![Hello by me](https://raw.githubusercontent.com/BrandTruong/brandtruong.github.io/master/images/Frame%202lowres.png)
-**My name is Brandon Truong.** I am a UCLA 2023 cs student and my passion is everything related to games!
+**Heyo, my name is Brandon Truong!** I graduated at UCLA with a cs major and love game dev!
 
-I am currently involved with **[ACM Studio](https://acmstudio.carrd.co)**, a UCLA organization that teaches expression through game development  
-I am also part of the team at **[GrayRavens](https://grayravens.com)**, a fan-site dedicated to aggregating information for the hit mobile game, Punishing: Gray Raven
+I was an officer at **[ACM Studio](https://acmstudio.carrd.co)**, a UCLA organization that aims to help students express themselves through game development! 
+I am also part of the team at **[GrayRavens](https://grayravens.com)**, a fan-site dedicated to aggregating information for Punishing: Gray Raven!
 
 In my profile, you can find:
 * Coursework for the classes I've taken at UCLA
