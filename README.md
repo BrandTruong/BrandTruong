@@ -15,4 +15,5 @@ In my profile, you can find:
 
 You can find me on: <br /><br />
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/brandtruong/)
+[<img alt="Itch.IO" src="https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>](https://brandmuffin.itch.io/)
 [<img alt="Website" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/>](https://brandtruong.github.io/)
