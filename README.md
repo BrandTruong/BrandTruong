@@ -5,13 +5,13 @@ Thanks for checking out my readme! Feel free to use it as a template or as a gui
 ![Hello by me](https://raw.githubusercontent.com/BrandTruong/brandtruong.github.io/master/images/Frame%202lowres.png)
 **Heyo, my name is Brandon Truong!** I graduated at UCLA with a cs major and love game dev!
 
-I was an officer at **[ACM Studio](https://acmstudio.carrd.co)**, a UCLA organization that aims to help students express themselves through game development! 
+I am an alumni officer at **[ACM Studio](https://acmstudio.carrd.co)**, a UCLA organization that aims to help students express themselves through game development! <br/>
 I am also part of the team at **[GrayRavens](https://grayravens.com)**, a fan-site dedicated to aggregating information for Punishing: Gray Raven!
 
 In my profile, you can find:
 * Coursework for the classes I've taken at UCLA
 * Past game projects that I've worked on
-* Personal projects that helped me learn outside of school!
+* Personal projects that I'm working or worked on
 
 You can find me on: <br /><br />
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/brandtruong/)
